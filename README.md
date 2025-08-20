@@ -1,2 +1,10 @@
 # RoyalRun
-Unity C# Game
+
+Unity C# Endless Runner Game
+
+
+
+Instructions
+
+\- Launch Assets/Scenes/MainLevel
+
